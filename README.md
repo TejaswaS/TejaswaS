@@ -1,16 +1,19 @@
-## Hi there 👋
+Hey, I'm Tejaswa Sharma 👋
+🎓 Student | Python Developer | ML Enthusiast
+I'm a curious developer who loves building projects, solving problems, and learning by creating.
+🚀 Currently Working On
 
-<!--
-**TejaswaS/TejaswaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Strengthening my Python & DSA skills
+🤖 Exploring Machine Learning & Deep Learning
+💻 Building projects and experimenting with new ideas
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+Python C++ HTML CSS Git GitHub TensorFlow VS Code
+📫 Connect With Me
+🔗 GitHub
+💼 LinkedIn
+📧 Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Code • Learn • Build • Repeat 🚀
+
